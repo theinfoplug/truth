@@ -50,6 +50,7 @@ nav {
 /*Logo text in nav */
 .brand-logo {
   font-family: UKNumberPlate;
+  font-family: 'UKNumberPlate';
   font-weight: 600;
   font-size: 1.7em !important; 
 }
@@ -57,6 +58,7 @@ nav {
 /* Banner header Title Text*/
 .banner-header-text {
   font-family: UKNumberPlate;
+  font-family: 'UKNumberPlate';
   font-size: 4em;
   font-weight: 400;
 }
